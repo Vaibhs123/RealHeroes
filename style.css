@@ -5,9 +5,21 @@
 }
 
 body{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     height: 100vh;
-    background-color: rgb(212, 180, 241);
-    display: flex;
+    /* background-color: #d7e3fc; */
+    /* display: flex; */
+}
+
+.page-title{
+    font-family: 'Teko', sans-serif;
+    /* font-family: monospace; */
+    font-weight: normal;
+    text-align: center;
+    font-size: 6em;
+    /* margin-top: 40px; */
+    margin-bottom: 20px;
 }
 
 .memory-game{
@@ -16,13 +28,13 @@ body{
     display: flex;
     margin: auto;
     flex-wrap: wrap;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     perspective: 1000px;
 } 
 
 .memory-card{
-    width: calc(25% - 10px);
-    height: calc(33.333% - 10px);
+    width: calc(25% - 5px);
+    height: calc(25% - 5px);
     position: relative;
     /* border: 2px solid blue; */
     margin: 5px;
@@ -46,9 +58,12 @@ body{
     height: 100%;
     padding: 20px;
     border-radius: 5px;
-    background: rgba(213, 72, 213, 0.576);
+    /* background: #bbadff; */
+    background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
     position: absolute;
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     backface-visibility: hidden;
 }
 
