@@ -1,11 +1,11 @@
 # Real Heroes Memory Game 🦸
 
 #### Why did we create this? 💡
-All of us are fond about superheroes like Batman, Superman, etc. But we often forget to praise the real heroes who are continuously working for our help. 
+All of us are fond of superheroes like Batman, Superman, etc. But we often forget to praise the real heroes who are continuously working for our help. 
 So as a sign of gratitude and to help small children understand who the real heroes are, we have developed this small game.
 
 #### How it works ❓
-In this game you have to simply use yuor memory by remembering the place of the card of the worker and match it with their correct pair(instrument).
+In this game, you have to simply use your memory by remembering the place of the card of the worker and match it with their correct pair(instrument).
 If you have chosen the incorrect pair the cards will again get flipped, but if you have chosen the correct pair then you can move ahead and look out for other pairs.
 
 #### Before the start of the game:
